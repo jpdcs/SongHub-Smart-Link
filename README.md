@@ -1,6 +1,6 @@
 # SongHub Smart Link Remote
 
-![Android 9.0+](https://img.shields.io/badge/Android-9.0%2B-green) ![SongHub PC](https://img.shields.io/badge/SongHub%20PC-Supported-blue) ![Legacy MegaOke](https://img.shields.io/badge/Legacy%20MegaOke-Supported-orange) ![Release APK](https://img.shields.io/badge/Release-APK-brightgreen)
+![Android 9.0+](https://img.shields.io/badge/Android-9.0%2B-green) ![SongHub PC](https://img.shields.io/badge/SongHub%20PC-Supported-blue) ![SongHub Legacy (MegaOke)](https://img.shields.io/badge/SongHub%20Legacy%20(MegaOke)-Supported-orange?color=orange) ![Release APK](https://img.shields.io/badge/Release-APK-brightgreen)
 
 > **SongHub Smart Link Remote** is the official companion remote control application for **SongHub PC**, **Android**, and **SongHub Legacy** (formerly known as **MegaOke PC**). Transform your Android phone or tablet into a powerful karaoke remote control to search songs, manage queues, control playback, and view live synchronized lyrics right from your hands!
 
@@ -32,7 +32,7 @@
 
 # SongHub Smart Link Remote (Tagalog Version)
 
-![Android 9.0+](https://img.shields.io/badge/Android-9.0%2B-green) ![SongHub PC](https://img.shields.io/badge/SongHub%20PC-Supported-blue) ![Legacy MegaOke](https://img.shields.io/badge/Legacy%20MegaOke-Supported-orange) ![Release APK](https://img.shields.io/badge/Release-APK-brightgreen)
+![Android 9.0+](https://img.shields.io/badge/Android-9.0%2B-green) ![SongHub PC](https://img.shields.io/badge/SongHub%20PC-Supported-blue) ![SongHub Legacy (MegaOke)](https://img.shields.io/badge/SongHub%20Legacy%20(MegaOke)-Supported-orange?color=orange) ![Release APK](https://img.shields.io/badge/Release-APK-brightgreen)
 
 > Ang **SongHub Smart Link Remote** ang opisyal na remote control app para sa **SongHub PC**, **Android**, at **SongHub Legacy** (dating kilala bilang **MegaOke PC**). Gawing isang makapangyarihang karaoke remote ang iyong Android phone o tablet para maghanap ng kanta, mag-ayos ng pila, kontrolin ang tugtog, and makita ang live lyrics nang direkta sa iyong kamay!
 
