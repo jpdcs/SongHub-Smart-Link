@@ -27,7 +27,10 @@
 3. **Enjoy Singing**:
    - Search for songs, add them to the queue, control the music, and sing along!
 
----
+Note: On MegaOke PC and SongHub Legacy PC, here is the list of compatible versions:
+- Megaoke 24.1.67 hanggang Megaoke 24.7.67
+- SongHub Legacy 27.5.67 and up
+
 ---
 
 # SongHub Smart Link Remote (Tagalog Version)
@@ -58,3 +61,7 @@
    - Buksan ang app, i-type ang IP address ng host server sa settings, at kumonekta.
 3. **Magsaya sa Pag-kanta**:
    - Maghanap ng kanta, ilagay sa pila, kontrolin ang volume at pitch, at mag-enjoy sa videoke!
+
+Note: Sa MegaOke PC and SongHub Legacy PC, eto ang compatibility sa mga sumusunod na versions:
+- Megaoke 24.1.67 hanggang Megaoke 24.7.67
+- SongHub Legacy 27.5.67 and up
